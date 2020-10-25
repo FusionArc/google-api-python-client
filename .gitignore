@@ -11,3 +11,4 @@ dist/
 .coverage
 coverage.xml
 nosetests.xml
+docs/dyn/dns_v2beta1.dnsKeys.html
